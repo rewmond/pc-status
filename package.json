@@ -1,0 +1,24 @@
+{
+  "name": "masterclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewmond/pc-status.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rewmond/pc-status/issues"
+  },
+  "homepage": "https://github.com/rewmond/pc-status#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
